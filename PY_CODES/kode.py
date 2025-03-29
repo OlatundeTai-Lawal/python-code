@@ -1,0 +1,1 @@
+print("kode kloud python class!")
